@@ -41,7 +41,7 @@
   "source_files": "AFNetworking/AFNetworking.h",
   "resource_bundles": {
     "AFNetworking": [
-      "privacy/PrivacyInfo.xcprivacy"
+      "Resources/PrivacyInfo.xcprivacy"
     ]
   },
   "deprecated_in_favor_of": "Alamofire",
