@@ -41,10 +41,9 @@
   "source_files": "AFNetworking/AFNetworking.h",
   "resource_bundles": {
     "AFNetworking": [
-      "Resources/PrivacyInfo.xcprivacy"
+      "AFNetworking/Resources/PrivacyInfo.xcprivacy"
     ]
   },
-  "deprecated_in_favor_of": "Alamofire",
   "subspecs": [
     {
       "name": "Serialization",
